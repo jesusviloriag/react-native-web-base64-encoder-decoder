@@ -54,7 +54,6 @@ function App(): JSX.Element {
   }
 
   const base64Pasted = (newText) => {
-    alert(newText);
     if(newText) {
       let prefix = "";
       setBase64Field(newText);
