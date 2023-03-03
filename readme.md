@@ -1,5 +1,10 @@
 # React Native Base64 Encoder & Decoder
 
+Install dependencies
+```
+npm install
+```
+
 Run in Android
 ```
 npx react-native run-android
